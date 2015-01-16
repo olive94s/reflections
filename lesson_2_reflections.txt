@@ -1,0 +1,11 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+	When you initialize a repository every file inside is listed as untracked. 
+	The reason we need to do that is because the repository is where people can
+	grab your code to collabote with.
+
+How is the staging area different from the working directory and the repository? What 
+value do you think it offers?
+
+	The staging area is where you can put a collection of things then put into the repository.
+	It would allow a commit to pertain to a collective idea better.
