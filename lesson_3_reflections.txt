@@ -9,3 +9,9 @@ your remote repository?
 	It would be better for it to be manual becuase then your code would be constantly changing since people could be
 	working on it at any moment.
 
+Describe the difference between forks, clones, and branches. When would you use one instead of another?
+
+	Forks is when you want to be able to access the repository and try to do things to it. 
+	Cloning is when you want to have a copy of it on your computer.
+	Branches are like different things that you are doing to the project.
+
